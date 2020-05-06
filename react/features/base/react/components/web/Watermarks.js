@@ -118,7 +118,7 @@ class Watermarks extends Component<Props, State> {
      * @returns {ReactElement}
      */
     render() {
-        return (
+        /*return (
             <div>
                 {
                     this._renderJitsiWatermark()
@@ -129,6 +129,10 @@ class Watermarks extends Component<Props, State> {
                 {
                     this._renderPoweredBy()
                 }
+            </div>
+        );*/
+	return (
+            <div>
             </div>
         );
     }
